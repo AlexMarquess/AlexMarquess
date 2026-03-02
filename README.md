@@ -5,10 +5,10 @@
 
 
 <!-- How to reach me por internet
-- Pronouns: maqueskimarkiNetworks
+- Pronouns: ---
 - Fun fact: Soy informatico 
 -->
 <!---
-Marquesmarki/Marquesmarki is a special repository because its `README.md` (this file) appears on your GitHub profile.
+AlexMarquess is a special repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
