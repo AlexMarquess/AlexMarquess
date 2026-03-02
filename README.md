@@ -1,4 +1,4 @@
- # 👋 Hi, I’m @Marquesmarki
+ # 👋 Hi, I’m @AlexMarquess
 - I’m interested in computing
 - I am currently learning 2D and 3D video game programming.
 - I am looking to collaborate on small projects in which I can be useful by contributing my knowledge
